@@ -5,7 +5,7 @@
 
 <div id="socials" align="center">
   <a href="https://t.me/nikamartro">
-    <img scr="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white](https://img.icons8.com/?size=48&id=63306&format=png" alt="Telegram"/>
+    <img scr="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://vk.com/martnik">
     <img scr="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
