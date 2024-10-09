@@ -12,3 +12,11 @@
   </a>
 </div>
 
+### About me
+- My specialization is "Industrial Programming"
+- English B1
+- Russian C2
+
+### languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+title="pyth" width="40" height="40" />&nbsp
