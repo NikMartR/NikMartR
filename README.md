@@ -18,7 +18,7 @@
 - Russian C2
 - Have experience in:
   -  Web development
-  -  TelegramBot development
+  -  Creating TelegramBot
   -  Design visual novel
 
 ### languages and tools
