@@ -16,6 +16,10 @@
 - My specialization is "Industrial Programming"
 - English B1
 - Russian C2
+- Have experience in:
+  -  Web development
+  -  TelegramBot development
+  -  Design visual novel
 
 ### languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
