@@ -7,8 +7,8 @@
   <a href="https://t.me/nikamartro">
     <img scr="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://vk.cc/martnik">
-    <img scr="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white"/>
+  <a href="https://vk.com/martnik">
+    <img scr="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
 </div>
 
