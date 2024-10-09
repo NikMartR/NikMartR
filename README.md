@@ -8,7 +8,7 @@
     <img scr="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white](https://img.icons8.com/?size=48&id=63306&format=png" alt="Telegram"/>
   </a>
   <a href="https://vk.com/martnik">
-    <img scr="[https://img.shields.io/badge/VK](https://img.icons8.com/?size=100&id=114452&format=png&color=000000)" alt="VK"/>
+    <img scr="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
 </div>
 
